@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Juliet Oma",
+      "role": "admin",
+      "email": "admin@gmail.com",
+      "number": "08100000000"
+    },
+    {
+      "id": 2,
+      "name": "Baji Shaik",
+      "email": "shaik@gmail.com",
+      "number": "123",
+      "role": "Admin"
+    },
+    {
+      "id": 3,
+      "name": "Baji",
+      "email": "shaik@gmail.com",
+      "number": "3245",
+      "role": "Staff"
+    }
+  ]
+}
